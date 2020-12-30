@@ -1,0 +1,10 @@
+theme: jekyll-theme-midnight
+markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Readme.md
